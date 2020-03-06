@@ -1,6 +1,7 @@
 # Clima
 With Clima, you'll be able to find out the weather temperature and condition by search or locate where you are.
-https://openweathermap.org API used.
+* https://openweathermap.org API used.
+* Both dark and light mode included.
 
 ## Preview
 ### Permission
